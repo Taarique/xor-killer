@@ -8,7 +8,7 @@ git clone https://github.com/Taarique/xor-killar.git
 
 #next
 ```
-cd Xor-killar
+cd xor-killar
 ```
 
 
